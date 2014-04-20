@@ -1,0 +1,352 @@
+@font-face { 
+	font-family: GillSans; 
+	src: url('../fonts/GillSans.ttc');
+} 
+body{
+	background: #000;
+}
+
+#stage {
+	width: 1280px;
+	height: 720px;
+	background: #000000;
+	position: relative;
+	float: center;
+	overflow: hidden;
+	z-index: 0;
+	margin: 0 auto;
+}
+
+#metrogolden{
+	background: none;
+	color: #fff;
+	font-size: 30pt;
+	font-weight: 100;
+	visibility: hidden;
+	font-family: GillSans, serif;
+	position: absolute;
+	text-align: center;
+	z-index: 6;
+	left: 400px;
+	top: 480px;
+	margin: 0 auto;
+}
+h1 {
+	font-size: 15pt;
+	font-weight: 1;
+}
+#metrogolden.animate {
+	-webkit-animation-name: marquee;
+	-webkit-animation-duration: 4s;
+	-webkit-animation-timing-function: ease;
+	-webkit-animation-iteration-count: 1;	
+	-webkit-animation-direction: normal;
+	-webkit-animation-delay: 47.7s;
+	-webkit-animation-play-state: running;
+	-webkit-animation-fill-mode: forwards;
+	}
+	@-webkit-keyframes marquee {
+		0% {
+			visibility: hidden;
+		}
+		1% {
+			visibility: visible;
+		}
+		100% {
+			visibility: none;
+		}
+	}
+#stan {
+	background: none;
+	color: #fff;
+	font-size: 30pt;
+	font-weight: 100;
+	visibility: hidden;
+	font-family: GillSans, serif;
+	position: absolute;
+	text-align: center;
+	z-index: 7;
+	top: 480px;
+	left: 320px;
+	margin: 0 auto;
+}
+#stan.animate {
+	-webkit-animation-name: stanley;
+	-webkit-animation-duration: 4s;
+	-webkit-animation-timing-function: ease;
+	-webkit-animation-iteration-count: 1;	
+	-webkit-animation-direction: normal;
+	-webkit-animation-delay: 57s;
+	-webkit-animation-play-state: running;
+	-webkit-animation-fill-mode: forwards;
+	}
+	@-webkit-keyframes stanley {
+		0% {
+			visibility: hidden;
+		}
+		1% {
+			visibility: visible;
+		}
+		100% {
+			visibility: none;
+		}
+	}
+#thousand {
+	background: none;
+	color: #fff;
+	font-size: 60pt;
+	font-weight: 100;
+	visibility: hidden;
+	font-family: GillSans, serif;
+	position: absolute;
+	text-align: center;
+	z-index: 8;
+	left: 200px;
+	top: 500px;
+	margin: 0 auto;
+}
+#thousand.animate {
+	-webkit-animation-name: thousand;
+	-webkit-animation-duration: 11s;
+	-webkit-animation-timing-function: ease;
+	-webkit-animation-iteration-count: 1;	
+	-webkit-animation-direction: normal;
+	-webkit-animation-delay: 66.6s;
+	-webkit-animation-play-state: running;
+	-webkit-animation-fill-mode: forwards;
+	}
+	@-webkit-keyframes thousand {
+		0% {
+			visibility: hidden;
+		}
+		1% {
+			visibility: visible;
+		}
+		100% {
+			visibility: none;
+		}
+	}
+		
+#sun {
+	background: #fff;
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	border-radius: 60px;
+	z-index: 2;
+	left: 602px;
+	margin: 0 auto;
+}
+	#sun.animate {
+		-webkit-animation-name: sun1;
+		-webkit-animation-duration: 150s;
+		-webkit-animation-timing-function: ease;
+		-webkit-animation-iteration-count: 1;	
+		-webkit-animation-direction: normal;
+		-webkit-animation-delay: 0;
+		-webkit-animation-play-state: running;
+		-webkit-animation-fill-mode: forwards;
+		-webkit-box-shadow: 0 0 4px 4px #fff;
+		}
+		@-webkit-keyframes sun1 {
+			0% {
+				top: 305px;
+			}
+			100% {
+				top: 170px;
+			}
+		}
+
+		#sun2 {
+			background: #fff;
+			width: 60px;
+			height: 60px;
+			position: absolute;
+			border-radius: 60px;
+			z-index: 1;
+			left: 602px;
+			margin: 0 auto;
+		}
+			#sun2.animate {
+				-webkit-animation-name: sun2;
+				-webkit-animation-duration: 150s;
+				-webkit-animation-timing-function: ease;
+				-webkit-animation-iteration-count: 1;	
+				-webkit-animation-direction: normal;
+				-webkit-animation-delay: 0;
+				-webkit-animation-play-state: running;
+				-webkit-animation-fill-mode: forwards;
+				-webkit-box-shadow: 0 0 0px 0px #ffb6b2;
+				}
+				@-webkit-keyframes sun2 {
+					0% {
+						top: 305px;
+					}
+					13% {
+						-webkit-box-shadow: 0 0 0px 0px #ffb6b2;
+					}
+					20%{
+						-webkit-box-shadow: 0 0 5px 3px #ffb6b2;
+					}
+					100% {
+						top: 170px;
+						-webkit-box-shadow: 0 0 100px 5px #ffb6b2;
+					}
+				}
+				#sun3 {
+					background: #fff;
+					width: 60px;
+					height: 60px;
+					position: absolute;
+					border-radius: 60px;
+					z-index: 0;
+					left: 602px;
+					margin: 0 auto;
+				}
+					#sun3.animate {
+						-webkit-animation-name: sun3;
+						-webkit-animation-duration: 150s;
+						-webkit-animation-timing-function: ease;
+						-webkit-animation-iteration-count: 1;	
+						-webkit-animation-direction: normal;
+						-webkit-animation-delay: 0;
+						-webkit-animation-play-state: running;
+						-webkit-animation-fill-mode: forwards;
+						-webkit-box-shadow: 0 0 0px 0px #ffd6b4;
+						}
+						@-webkit-keyframes sun3 {
+							0% {
+								top: 305px;
+							}
+							13% {
+								-webkit-box-shadow: 0 0 0px 0px #ffd6b4;
+							}
+							20%{
+								-webkit-box-shadow: 0 0 600px 10px #ffd6b4;
+							}
+							100% {
+								top: 170px;
+								-webkit-box-shadow: 0 0 2000px 20px #ffd6b4;
+							}
+						}
+						#sun4 {
+							background: #fff;
+							width: 60px;
+							height: 60px;
+							position: absolute;
+							border-radius: 60px;
+							z-index: 2;
+							left: 602px;
+							margin: 0 auto;
+						}
+							#sun4.animate {
+								-webkit-animation-name: sun4;
+								-webkit-animation-duration: 150s;
+								-webkit-animation-timing-function: ease;
+								-webkit-animation-iteration-count: 1;	
+								-webkit-animation-direction: normal;
+								-webkit-animation-delay: 0;
+								-webkit-animation-play-state: running;
+								-webkit-animation-fill-mode: forwards;
+								-webkit-box-shadow: 0 0 0px 0px #ffdddb;
+								}
+								@-webkit-keyframes sun4 {
+									0% {
+										top: 305px;
+									}
+									13% {
+										-webkit-box-shadow: 0 0 0px 00px #ffdddb;
+									}
+									100% {
+										top: 170px;
+										-webkit-box-shadow: 0 0 4000px 50px #ffdddb;
+									}
+								}
+
+#earth {
+	background-image: url('../images/Earth.png');
+	width: 600px;
+	height: 600px;
+	position: absolute;
+	z-index: 3;
+	top: 200px;
+	margin-top: 212px;
+	margin-left: 340px;
+	margin-right: auto;
+}
+#earth.animate {
+		-webkit-animation-name: earthmove;
+		-webkit-animation-duration: 180s;
+		-webkit-animation-timing-function: ease;
+		-webkit-animation-iteration-count: 1;	
+		-webkit-animation-direction: normal;
+		-webkit-animation-delay: 0;
+		-webkit-animation-play-state: running;
+		-webkit-animation-fill-mode: forwards;
+		}
+
+		@-webkit-keyframes earthmove {
+			0% {
+				top: 0px;
+			}
+			100% {
+				top: 0px;
+			}
+		}
+#moon {
+		background-image: url('../images/Moon.png');
+		width: 2000px;
+		height: 2000px;
+		position: absolute;
+		z-index: 4;
+		bottom: 0;
+		left: -350px;
+	}
+	#moon.animate {
+		-webkit-animation-name: moonmove;
+		-webkit-animation-duration: 165s;
+		-webkit-animation-timing-function: ease;
+		-webkit-animation-iteration-count: 1;	
+		-webkit-animation-direction: normal;
+		-webkit-animation-delay: 0;
+		-webkit-animation-play-state: running;
+		-webkit-animation-fill-mode: forwards;
+		}
+
+		@-webkit-keyframes moonmove {
+			0% {
+				top: -50px;
+			}
+			100% {
+				top: 800px;
+			}
+		}
+
+#moonshadow {
+	background-image: url('../images/MoonShadow.png');
+	width: 2000px;
+	height: 2000px;
+	position: absolute;
+	z-index: 5;
+	bottom: 0;
+	left: 20px;
+}
+	#moonshadow.animate {
+		-webkit-animation-name: moonshadowmove;
+		-webkit-animation-duration: 100s;
+		-webkit-animation-timing-function: ease;
+		-webkit-animation-iteration-count: 1;	
+		-webkit-animation-direction: normal;
+		-webkit-animation-delay: 0;
+		-webkit-animation-play-state: running;
+		-webkit-animation-fill-mode: forwards;
+	}
+
+		@-webkit-keyframes moonshadowmove {
+			0% {
+				top: -100px;
+			}
+			100% {
+				top: 1200px;
+			}
+		}

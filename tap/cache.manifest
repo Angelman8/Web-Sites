@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+# v=6
+
+# JS includes:
+build/includes/js/functions.js
+build/includes/js/jqtouch.js
+build/includes/js/jquery.js
+
+# Addon images:
+
+# Stylesheet includes:
+build/includes/css/jqtouch.css
+build/includes/css/style.css
+
+# Library items:
+Library/images/Page1.png
+Library/images/Page2.png
