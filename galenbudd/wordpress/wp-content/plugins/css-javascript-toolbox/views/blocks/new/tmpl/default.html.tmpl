@@ -1,0 +1,37 @@
+<?php
+/**
+* 
+*/
+
+// Disallow direct access.
+defined('ABSPATH') or die("Access denied");
+
+// Allow view to enqueue scripts and styles.
+do_action('admin_print_scripts');
+do_action('admin_print_styles');
+?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+<?php wp_print_head_scripts() ?>
+<?php wp_print_styles() ?>
+	</head>
+	<body>
+		<div id="cjtoolbox_popup">
+		  <form id="cjtoolbox_new_block_form" class="cjt-form">
+  			<fieldset>
+  				<ul>
+  					<li>
+  						<label for="cjt-new-block-name" title="<?php echo cssJSToolbox::getText('Name or title of code block  (must be unique and cannot be left blank)') ?>"><?php echo cssJSToolbox::getText('Name') ?>*</label>
+  						<input type="text" id="cjt-new-block-name" name="name" maxlength="50" value="" />
+  					</li>
+  					<li class="last">
+  						<input class="cjt-button cancel" type="button" value="<?php echo cssJSToolbox::getText('Cancel') ?>" />
+					    <input class="cjt-button save" type="submit" name="submit" value="<?php echo cssJSToolbox::getText('Create') ?>" />
+  					</li>
+  				</ul>
+  			</fieldset>
+		  </form>
+<?php print_footer_scripts() ?>
+		</div>
+	</body>
+</html>

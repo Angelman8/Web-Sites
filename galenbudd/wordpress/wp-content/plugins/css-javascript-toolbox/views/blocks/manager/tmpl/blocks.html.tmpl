@@ -1,0 +1,41 @@
+<?php
+/**
+* 
+*/
+
+// Diallow direct access.
+defined('ABSPATH') or die("Access denied");
+?>
+<div id="cjtoolbox-admin" class="wrap">
+	<h2 id="cjt-title"><?php echo cssJSToolbox::getText('CSS & Javascript Toolbox Free') ?></h2>&nbsp;&nbsp;&nbsp;
+	<a class="headerlink" target="_blank" href="http://<?php echo cssJSToolbox::CJT_WEB_SITE_DOMAIN ?>/"><?php echo cssJSToolbox::getText('Want Awesome Features? Click Here') ?></a>
+	<div id="cjt-banner-bar-right" class="cjt-banner-bar">
+		<a class="headerlink" target="_blank" href="http://<?php echo cssJSToolbox::CJT_WEB_SITE_DOMAIN ?>/"><?php echo cssJSToolbox::getText('Learn about CSS &amp; Javascript Toolbox') ?></a>
+	</div>
+	
+	<form id="cjtoolbox-blocks-page-form" method="post">
+		<?php wp_nonce_field('cjtoolbox'); ?>
+		<?php wp_nonce_field('closedpostboxes', 'closedpostboxesnonce', false); ?>
+		<?php wp_nonce_field('meta-box-order', 'meta-box-order-nonce', false); ?>
+		<input type="hidden" id="cjt-hasBlocks" value="<?php echo $this->hasBlocks ? 'true' : 'false' ?>" />
+		<input type="hidden" id="cjt-securityToken" value="<?php echo $this->securityToken ?>" />
+		<div id="poststuff" class="metabox-holder">
+			<div id="post-body">
+<?php if ($this->backupId) : ?>
+				<p id="cjt-info"><?php  echo cssJSToolbox::getText('You have now restored the code blocks from the current backup. Nothing is saved until you click "Restore" button. To revert back to the previous code blocks and discard this action, simply click the "Cancel Restore" button.') ?></p>
+<?php endif; ?>
+<?php 	echo $this->getTemplate('toolbox', array('location' => 'top'));	?>
+<?php		do_meta_boxes($this->pageHook, 'normal', null); ?>
+				<div id="cjt-noblocks-intro"<?php if ($this->hasBlocks) : ?> style="display:none"<?php endif; ?>>
+<?php		echo $this->getTemplate('intro', array(), 'tmpl/help') ?>
+				</div>
+<?php 	echo $this->getTemplate('toolbox', array('location' => 'bottom'));	?>
+			</div>
+		</div>
+	</form>
+	<div id="cjtoolbox-tips">
+		<ul>
+			<li><span style="font-weight:bold"><?php echo cssJSToolbox::getText('Warning!') ?></span>  <?php echo cssJSToolbox::getText('Please make sure to validate added CSS &amp; JavaScript codes, the plugin doesn\'t do that for you!') ?></li>
+		</ul>
+	</div>
+</div>
