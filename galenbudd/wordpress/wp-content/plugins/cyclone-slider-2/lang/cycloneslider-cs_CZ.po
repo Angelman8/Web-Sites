@@ -1,0 +1,566 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cyclone Slider 2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-13 14:13+0800\n"
+"PO-Revision-Date: 2013-09-01 18:54+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: D:\\webserver\\htdocs\\wp_dev\\cyclone-slider-2\\wp-"
+"content\\plugins\\cyclone-slider-2\n"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/cyclone-slider.php:76
+msgid "Cyclone Slider Settings"
+msgstr "Cyclone Slider nastavení"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/cyclone-slider.php:77
+msgid "Settings"
+msgstr "Nastavení"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:134
+msgid "Select an image"
+msgstr "Vyberte obrázek"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:135
+msgid "Add to Slide"
+msgstr "Přidat ke slideru"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:152
+msgid "Cyclone Slider"
+msgstr "Cyclone Slider"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:153
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:154
+msgid "Add Slideshow"
+msgstr "Přidat Slideshow"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:155
+msgid "Add New Slideshow"
+msgstr "Přidat novou Slideshow"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:156
+msgid "Edit Slideshow"
+msgstr "Upravit Slideshow"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:157
+msgid "New Slideshow"
+msgstr "Nová Slideshow"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:158
+msgid "View Slideshow"
+msgstr "Zobrazit Slideshow"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:159
+msgid "Search Slideshows"
+msgstr "Vyhledat Slideshow"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:160
+msgid "No slideshows found"
+msgstr "Žádná Slideshow nebyla nalezena."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:161
+msgid "No slideshows found in Trash"
+msgstr "Žádná Slideshow nebyla nalezena v Koši"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:196
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:199
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:200
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:203
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:204
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:205
+msgid "Slideshow updated."
+msgstr "Slideshow aktualizována."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:197
+msgid "Custom field updated."
+msgstr "Pole aktualizováno."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:198
+msgid "Custom field deleted."
+msgstr "Pole smazáno."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:201
+msgid "Slideshow published."
+msgstr "Slideshow publikována."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:202
+msgid "Slideshow saved."
+msgstr "Slideshow uložena."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:206
+#, php-format
+msgid ""
+"Templates CSS could not be saved. Make sure %stemplates.css is writable."
+msgstr ""
+"Kaskádové styly nemohly být uloženy. Ujistěte se, zdali je soubor "
+"%stemplates.css zapisovatelný."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:207
+#, php-format
+msgid "Templates JS could not be saved. Make sure %stemplates.js is writable."
+msgstr ""
+"Skripty nemohly být uloženy. Ujistěte se, zdali je soubor %stemplates.js "
+"zapisovatelný."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:241
+msgid "Slides"
+msgstr "Slidy"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:249
+msgid "Get Slider Codes"
+msgstr "Získat kódy Sliderů"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:257
+msgid "Slideshow Settings"
+msgstr "Nastavení Slideshow"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:265
+msgid "Slideshow Templates"
+msgstr "Šablony Slideshow"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:273
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:481
+msgid "Slideshow ID"
+msgstr "Slideshow ID"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:301
+msgid "Slide"
+msgstr "Slider"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:414
+msgid "Slide *"
+msgstr "Slider *"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:478
+msgid "Slideshow Name"
+msgstr "Název Slideshow"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:479
+msgid "Template"
+msgstr "Šablona"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:480
+msgid "No. of Slides"
+msgstr "Počet Sliderů"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-admin.php:482
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-settings.php:17
+msgid ""
+"Play with these settings if Cyclone Slider 2 is not working or if you want "
+"to optimize it."
+msgstr ""
+"Upravte tato nastavení, jestliže Cyclone Slider 2 nefunguje nebo jej chcete "
+"optimalizovat."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-settings.php:30
+msgid "Load scripts in:"
+msgstr "Nahrát skripty v:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-settings.php:33
+msgid "Header"
+msgstr "Záhlaví"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-settings.php:34
+msgid "Footer"
+msgstr "Zápatí"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-settings.php:39
+msgid "Load these scripts:"
+msgstr "Nahrát tyto skripty:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-settings.php:44
+msgid "Cycle 2. This is the core script needed by the plugin."
+msgstr "Cycle 2. Toto je základní skript potřebný pro funkci pluginu."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-settings.php:49
+msgid "Cycle 2 - Carousel. Used by these templates: Galleria, Lea, Dos."
+msgstr "Cycle 2 - Carousel. Použit v těchto šablonách: Galleria, Lea, Dos."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-settings.php:54
+msgid "Cycle 2 - Tile. Used for tile transition effects."
+msgstr "Cycle 2 - Tile. Použit pro dlaždicovitý přechodový efekt."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-settings.php:59
+msgid "Cycle 2 - Video. Used by YouTube template."
+msgstr "Cycle 2 - Video. Použit v YouTube šabloně."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-settings.php:64
+msgid "Scripts loading priority:"
+msgstr "Priorita nahrávání skriptů:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-settings.php:67
+msgid "Make this value bigger to load scripts last."
+msgstr "Zvětšete tuto hodnotu, aby se skripty nahrávaly jako poslední."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-settings.php:72
+msgid "Save Options"
+msgstr "Uložit nastavení"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-settings.php:73
+msgid "Restore Defaults"
+msgstr "Obnovit výchozí"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-settings.php:86
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/codefleet/class-codefleet-settings-page.php:114
+msgid "Default options restored."
+msgstr "Výchozí hodnoty obnoveny."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-widget.php:15
+msgid "Cyclone Slider Widget"
+msgstr "Cyclone Slider Widget"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-widget.php:16
+msgid "Widget for displaying slideshows."
+msgstr "Widget pro zobrazování Slideshow."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-widget.php:62
+msgid "Select a Slideshow:"
+msgstr "Vyberte Slideshow:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider-widget.php:77
+msgid "No slideshows found."
+msgstr "Žádná Slideshow nebyla nalezena."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider.php:208
+#, php-format
+msgid "[Slideshow \"%s\" not found]"
+msgstr "[Slideshow \"%s\" nenalezena]"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-cyclone-slider.php:234
+#, php-format
+msgid "[Template \"%s\" not found]"
+msgstr "[Šablona \"%s\" nenalezena]"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-nextgen-integration.php:33
+msgid "NextGEN Integration"
+msgstr "NextGEN integrace"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-nextgen-integration.php:49
+msgid "Choose a NextGEN Gallery"
+msgstr "Vyberte NextGEN Galerii."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-nextgen-integration.php:59
+msgid "Import"
+msgstr "Import"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/classes/class-nextgen-integration.php:61
+msgid ""
+"Select a gallery to import images from. Images will be added as new slides."
+msgstr ""
+"Vyberte Galerii, z níž se mají importovat obrázky. Obrázky budou přidány "
+"jako nové Slidery."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:18
+msgid "Drag"
+msgstr "Táhnout"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:19
+msgid "Toggle"
+msgstr "Přepnout"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:20
+msgid "Delete"
+msgstr "Smazat"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:27
+msgid "Image"
+msgstr "Obrázek"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:28
+msgid "Video"
+msgstr "Video"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:29
+msgid "Custom"
+msgstr "Vlastní"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:42
+msgid "Get Image"
+msgstr "Získat obrázek"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:45
+msgid "Slide Properties:"
+msgstr "Vlastnosti Slideru:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:47
+msgid "Link"
+msgstr "Odkaz:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:50
+msgid "Link URL:"
+msgstr "URL odkazu:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:54
+msgid "Open Link in:"
+msgstr "Otevřít odkaz v:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:56
+msgid "Same Window"
+msgstr "Stejném okně"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:57
+msgid "New Tab or Window"
+msgstr "Nové záložce nebo okně"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:63
+msgid "Title"
+msgstr "Název"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:71
+msgid "Description"
+msgstr "Popis"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:80
+msgid "Image Attributes"
+msgstr "Atributy obrázku"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:83
+msgid "Alternate Text:"
+msgstr "Alternativní text:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:87
+msgid "Title Text:"
+msgstr "Titulek:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:93
+msgid "Slide Transition Effects"
+msgstr "Přechodové efekty Sliderů"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:97
+msgid "Disable"
+msgstr "Zakázat"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:98
+msgid "Enable Slide Effects"
+msgstr "Povolit přechodové efekty"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:104
+msgid "Transition Effects:"
+msgstr "Přechodové efekty:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:115
+msgid "Transition Effects Speed:"
+msgstr "Rychlost přechodových efektů:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:117
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:124
+msgid "Milliseconds"
+msgstr "Milisekundy"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:122
+msgid "Next Slide Delay:"
+msgstr "Prodleva dalšího Slideru:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:132
+msgid "Tile Count:"
+msgstr "Počet dlaždic:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:134
+msgid "The number of tiles to use in the transition."
+msgstr "Počet dlaždic k použití v přechodu."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:138
+msgid "Tile Delay:"
+msgstr "Zpoždění dlaždic:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:140
+msgid "Milliseconds to delay each individual tile transition."
+msgstr "Zpoždění každé přechodové dlaždice v milisekundách."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:144
+msgid "Tile Position:"
+msgstr "Pozice dlaždic:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:146
+msgid "Vertical"
+msgstr "Svislá"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:147
+msgid "Horizontal"
+msgstr "Vodorovná"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:167
+msgid "Video URL:"
+msgstr "URL videa:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:169
+msgid "Copy and paste a Youtube or Vimeo URL and hit the Get Video button."
+msgstr ""
+"Zkopírujte a vložte URL adresu Youtube nebo Vimeo videa a klikněte na "
+"tlačítko Získat video."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:173
+msgid "Get Video"
+msgstr "Získat video"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:178
+msgid "Embed Code"
+msgstr "Kód pro vložení"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:180
+msgid ""
+"You can place your embed code directly here. Or you can use the Get Video "
+"button to generate the embed code."
+msgstr ""
+"Kód pro vložení videa můžete umístit přímo do tohoto pole, nebo můžete "
+"použít tlačítko Získat video k vygenerování kódu pro vložení."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:182
+msgid ""
+"<strong>Note:</strong> The Slide Properties and Tile effects are not "
+"supported for videos."
+msgstr ""
+"<strong>Poznámka:</strong> Vlastnosti Sliderů a přechodové efekty nejsou "
+"podporovány pro videa."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:184
+msgid ""
+"<strong>Note:</strong> Append &wmode=transparent to the embed code src "
+"attribute to make HTML elements appear on top of Flash."
+msgstr ""
+"<strong>Poznámka:</strong> Připojte &wmode=transparent k src atributu kódu "
+"pro vložení, aby se HTML elementy objevily na začátku Flashe."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slide-edit.php:190
+msgid "Custom HTML"
+msgstr "Vlastní HTML"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-codes.php:4
+msgid "Your Shortcode:"
+msgstr "Váš Shortcode:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-codes.php:6
+msgid ""
+"Copy and paste this shortcode into your Post, Page or Custom Post editor."
+msgstr "Zkopírujte a vložte tento kód do obsahu Vašeho příspěvku nebo stránky."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-codes.php:10
+msgid "Your PHP Code:"
+msgstr "Váš PHP kód:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-codes.php:12
+msgid ""
+"Copy and paste this code when you need to display the slider in template "
+"files (header.php, front-page.php, etc.)."
+msgstr ""
+"Zkopírujte a vložte tento kód, jestliže potřebujete zobrazit Slideshow v "
+"souboru šablony (header.php, front-page.php, apod.)."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-id.php:5
+msgid "Change the Slideshow ID here."
+msgstr "Změňte zde Slideshow ID."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:4
+msgid "Transition Effects to Use:"
+msgstr "Přechodové efekty k použití:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:28
+msgid "Milliseconds. 0 to disable auto advance."
+msgstr "Milisekund. 0 zakáže automatické posouvání."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:38
+msgid "Width:"
+msgstr "Šířka:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:40
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:46
+msgid "pixels."
+msgstr "pixelů"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:44
+msgid "Height:"
+msgstr "Výška:"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:50
+msgid "Pause on Hover?"
+msgstr "Pauza po najetí kurzoru myši?"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:52
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:60
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:68
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:78
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:87
+msgid "Yes"
+msgstr "Ano"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:53
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:61
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:69
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:77
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:86
+msgid "No"
+msgstr "Ne"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:58
+msgid "Show Prev/Next Buttons?"
+msgstr "Zobrazit Předchozí/Další tlačítka?"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:66
+msgid "Show Navigation?"
+msgstr "Zobrazit navigaci?"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:71
+msgid "The thumbnails or dots depending on template."
+msgstr "Náhledy a body závisí na použité šabloně."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:75
+msgid "Random Slide Order?"
+msgstr "Náhodné pořadí Sliderů?"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:80
+msgid "Randomize order of slides on every page visit."
+msgstr "Náhodné pořadí Sliderů při každé návštěvě stránky."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:84
+msgid "Resize Images?"
+msgstr "Změnit velikost obrázků?"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slider-properties.php:89
+msgid ""
+"Yes - resize images to slideshow dimension. <br>No - use the original "
+"uploaded image."
+msgstr ""
+"Ano - změní velikost obrázků podle rozměrů Slideshow. <br> Ne - použije "
+"originální obrázek."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/slides.php:8
+msgid "Add Slide"
+msgstr "Přidat Slider"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/template-selection.php:39
+msgid ""
+"Select a template to use. Check the template icons to see what slide type it "
+"supports."
+msgstr ""
+"Vyberte šablonu vzhledu k použití. Ikony u šablony ukazují, jaké typy "
+"Sliderů jsou podporovány."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/template-selection.php:40
+#, php-format
+msgid ""
+"Note: If you are looking for the Black, Blue or Myrtle, checkout this <a "
+"href=\"%s\">post</a>."
+msgstr ""
+"Poznámka: Pokud hledáte černou, modrou nebo Myrtle šablonu, prohlédněte si "
+"tento <a href=\"%s\">článek</a>."
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/template-selection.php:42
+msgid "Learn to create your own template"
+msgstr "Naučte se vytvářet vlastní šablony vzhledu"
+
+#: D:\webserver\htdocs\wp_dev\cyclone-slider-2\wp-content\plugins\cyclone-slider-2/views/template-selection.php:43
+msgid "Get more templates.."
+msgstr "Získejte další šablony.."

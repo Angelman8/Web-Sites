@@ -1,0 +1,83 @@
+Changelog Legend:
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+----
+
+(18/04/2014) - Update - Version 1.0.9
+
+[+] Added custom Page Template for displaying pages without the Comments area.
+[+] Added custom Page Template for displaying pages without the Page Title.
+[x] Removed Theme Options link from the admin bar.
+
+----
+
+(12/04/2014) - Improvements - Version 1.0.8
+
+[+] Added custom Page Template for displaying the page content only for logged in users.
+[*] Updated language localizations.
+
+----
+
+(04/04/2014) - Improvements - Version 1.0.7
+
+[*] Edited the offer of Google Fonts in Theme Options.
+
+----
+
+(20/03/2014) - Improvements - Version 1.0.6
+
+[+] Added Russian and Hungarian language localizations.
+
+----
+
+(09/03/2014) - Improvements - Version 1.0.5
+
+[*] Changed the function for displaying date on archive pages and single posts.
+[*] Edited the function for displaying homepage Header Image/Slideshow. 
+
+----
+
+(23/02/2014) - Improvements - Version 1.0.4
+
+[+] Added support for Custom Header image using default WordPress feature.
+[+] Added function for correct displaying of custom background color and image.
+[*] Edited displaying of footer widget areas.
+[*] Edited enqueue function for Theme Options framework CSS. 
+[*] Compressed the default Header Image.
+
+----
+
+(21/01/2014) - Improvements - Version 1.0.3
+
+[+] Added scroll-to-top.js for animated scroll-top function.
+[+] Added upload buttons into Theme Options for easier choosing custom logo and favicon.
+[*] Renamed files with custom page templates.
+[*] Edited function for displaying a list of categories in Theme Options.
+
+----
+
+(12/12/2013) - Improvements - Version 1.0.2
+
+[+] Added Page with About Section template for displaying pages with About boxes.
+[+] Added support for TinyMCE editor styling to make the editor content match the resulting post output in the theme.
+[+] Added support for languages written in a Right To Left (RTL) direction.
+[+] Added support for displaying full-width thumbnails on pages and posts in full-width mode (without sidebar).
+[*] Updated bundled plugin Cyclone Slider 2 into version 2.7.7.
+[*] Edited Czech translation (cs_CZ).
+[*] Edited responzive displaying of Header menu on mobile devices.
+
+----
+
+(15/11/2013) - Improvements - Version 1.0.1
+
+[+] Added translation into Spanish.
+
+----
+
+(30/10/2013) - The initial public release - Version 1.0.0

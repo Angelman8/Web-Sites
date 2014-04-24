@@ -1,0 +1,855 @@
+# Translation of the WordPress theme TimeTurner 1.0 by Tomas Toman.
+# This file is distributed under the same license as the TimeTurner package.
+# Tomas Toman <support@tomastoman.cz>, 2013.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: TimeTurner 1.0.4\n"
+"POT-Creation-Date: 2013-10-23 18:09+0100\n"
+"PO-Revision-Date: 2014-04-11 16:46+0100\n"
+"Last-Translator: Orosz Zoltán <orizoli@gmail.com>\n"
+"Language-Team: Orosz Zoltán <orizoli@gmail.com>\n"
+"Language: Hungarian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:16 search.php:49
+msgid "Nothing Found"
+msgstr "Nincs találat"
+
+#: 404.php:24
+msgid ""
+"Apologies, but no results were found for your request. Perhaps searching "
+"will help you to find a related content."
+msgstr ""
+"Sajnálom, de nincs ilyen oldal. Talán a Kereső használata segít a megfelelő "
+"tartalom megtalálásában."
+
+#: archive.php:19
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Napi arhívum: %s"
+
+#: archive.php:21
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Havi arhívum: %s"
+
+#: archive.php:23
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Éves arhívum: %s"
+
+#: archive.php:25
+msgid "Archives"
+msgstr "Arhívum"
+
+#: author.php:18
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Szerző arhívuma: %s"
+
+#: author.php:34
+#, php-format
+msgid "About %s"
+msgstr "Névjegy %s"
+
+#: class-tgm-plugin-activation.php:156 functions.php:438
+msgid "Install Required Plugins"
+msgstr "Telepítsd a szükséges plugint"
+
+#: class-tgm-plugin-activation.php:157 functions.php:439
+msgid "Install Plugins"
+msgstr "Plugin telepítése"
+
+#: class-tgm-plugin-activation.php:158 functions.php:443
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Plugin telepítése: %s"
+
+#: class-tgm-plugin-activation.php:159
+msgid "Something went wrong."
+msgstr "Valami nem sikerült."
+
+#: class-tgm-plugin-activation.php:170 functions.php:449
+msgid "Return to Required Plugins Installer"
+msgstr "Vissza a hiányzó plugin telepítéséhez"
+
+#: class-tgm-plugin-activation.php:171
+msgid "Return to the dashboard"
+msgstr "Vissza a Vezérlőpulthoz"
+
+#: class-tgm-plugin-activation.php:172 class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr "Plugin sikeresen aktiválva"
+
+#: class-tgm-plugin-activation.php:173
+msgid "The following plugin was activated successfully:"
+msgstr "A következő plugin sikeresen aktiválva:"
+
+#: class-tgm-plugin-activation.php:174
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Minden plugin sikeresen telepítve és aktiválva. %1$s"
+
+#: class-tgm-plugin-activation.php:175
+msgid "Dismiss this notice"
+msgstr "Jegyzet elhagyása"
+
+#: class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr "Külső hivatkozás"
+
+#: class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr "Saját gyűjtemény"
+
+#: class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr "Előre csomagolt"
+
+#: class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr "WordPress gyűjtemény"
+
+#: class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr "Szükséges"
+
+#: class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr "Ajánlott"
+
+#: class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "Nincs telepítve"
+
+#: class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "Telepítve, de nincs aktiválva"
+
+#: class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Nincs telepíthető és aktiválható plugin. <a href=\"%1$s\" title=\"Vissza a "
+"Vezérlőpulthoz\">Vissza a Vezérlőpulthoz</a>"
+
+#: class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr "Plugin"
+
+#: class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr "Forrás"
+
+#: class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr "Típus"
+
+#: class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr "Státusz"
+
+#: class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr "Telepít"
+
+#: class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr "Aktivál"
+
+#: class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr "Telepítő csomag nem elérhető."
+
+#: class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Telepítő csomag letöltése innen: <span class=\"code\">%s</span>&#8230;"
+
+#: class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr "Telepítő csomag kibontása&#8230;"
+
+#: class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr "Plugin telepítése&#8230;"
+
+#: class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr "Plugin telepítése nem sikerült."
+
+#: class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr "Plugin telepítése sikerült."
+
+#: class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr "Plugin aktiválása sikertelen."
+
+#: class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"A telepítés és az aktiválás elindult. Ez egy kis ideig eltarthat, várj "
+"türelemmel..."
+
+#: class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s plugin sikeresen telepítve és aktiválva."
+
+#: class-tgm-plugin-activation.php:1950 class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr "Részletek megjelenítése"
+
+#: class-tgm-plugin-activation.php:1950 class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr "Részletek elrejtése"
+
+#: class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr "Minden teepítés és aktiválás sikerült."
+
+#: class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Modul telepítése és aktiválása %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "A telepítés elindult. Ez egy kis ideig eltarthat, várj türelemmel..."
+
+#: class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Hiba történt a következő plugin telepítése közben: %1$s: <strong>%2$s</"
+"strong>."
+
+#: class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "A %1$s plugin telepítése nem sikerült."
+
+#: class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s plugin sikeresen feltelepítve."
+
+#: class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr "Minden telepítés befejeződött."
+
+#: class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin telepítése %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr "Vissza a Vezérlőpulthoz"
+
+#: comments.php:29
+msgid "Comment navigation"
+msgstr "Lapozás a hozzászólások között"
+
+#: comments.php:30
+msgid "&larr; Older Comments"
+msgstr "&larr; Régebbi hozzászólások"
+
+#: comments.php:31
+msgid "Newer Comments &rarr;"
+msgstr "Újabb hozzászólások &rarr;"
+
+#: comments.php:36
+msgid "Comments are closed."
+msgstr "Hozzászólás letiltva"
+
+#: comments.php:41
+msgid "Your name"
+msgstr "Neved"
+
+#: comments.php:42
+msgid "Website"
+msgstr "Weblap"
+
+#: comments.php:43
+msgid "Comment..."
+msgstr "Hozzászólás..."
+
+#: comments.php:47
+msgid "Leave a Comment"
+msgstr "Szólj hozzá"
+
+#: comments.php:18
+msgid "Comment (1)"
+msgid_plural "Comments (%1$s)"
+msgstr[0] "Hozzászólás (1)"
+msgstr[1] "Hozzászólások (%1$s)"
+
+#: content-archives.php:10 index.php:221
+msgid "Author"
+msgstr "Szerző"
+
+#: content-archives.php:10 index.php:221
+msgid "Category"
+msgstr "Kategória"
+
+#: content-archives.php:10 index.php:221
+msgid " | Tags: "
+msgstr " | Címke: "
+
+#: content-archives.php:21 index.php:232
+msgid " | Comments: "
+msgstr " | Hozzászólás: "
+
+#: functions.php:108
+msgid "Header Menu"
+msgstr "Felső menü"
+
+#: functions.php:109
+msgid "Sidebar Menu"
+msgstr "Oldalsó menü"
+
+#: functions.php:121
+msgid "Index-blog Sidebar"
+msgstr "Honlap-blog oldalsáv"
+
+#: functions.php:123
+msgid "Right sidebar which appears on index page in Blog section."
+msgstr "Jobb oldalsáv amely megjelenik index oldalt Blog részben."
+
+#: functions.php:130
+msgid "Main Sidebar"
+msgstr "Fő oldalsáv"
+
+#: functions.php:132
+msgid "Right sidebar which appears on posts and pages."
+msgstr "Jobb oldali menük a bejegyzések és statikus oldalak mellett."
+
+#: functions.php:139
+msgid "Footer left widget area"
+msgstr "Bal lábléc Widget terület"
+
+#: functions.php:141
+msgid "Left column with widgets in footer."
+msgstr "Bal oszlop widgetek lábléc."
+
+#: functions.php:148
+msgid "Footer middle widget area"
+msgstr "Lábléc közepén Widget terület"
+
+#: functions.php:150
+msgid "Middle column with widgets in footer."
+msgstr "Közép-oszlop widgetek lábléc."
+
+#: functions.php:157
+msgid "Footer right widget area"
+msgstr "Jobb lábléc Widget terület"
+
+#: functions.php:159
+msgid "Right column with widgets in footer."
+msgstr "Jobb oszlop a kütyü a lábléc."
+
+#: functions.php:166
+msgid "Footer notices"
+msgstr "Lábléc megjegyzéses"
+
+#: functions.php:168
+msgid ""
+"The line for copyright and other notices below the footer widget areas. "
+"Insert here one Text widget. The \"Title\" field at this widget should stay "
+"empty."
+msgstr "Sor a copyright és egyéb megjegyzéseknek a lábléc widgetek alatt."
+
+#: functions.php:175
+msgid "Homepage slideshow"
+msgstr "Főoldal diaképek"
+
+#: functions.php:177
+msgid ""
+"The area for Cyclone Slider Widget which displays a slideshow on your "
+"homepage."
+msgstr "Cyclone Slider Widget helye, ahol a diaképek megjelennek."
+
+#: functions.php:184
+msgid "About Section boxes on homepage"
+msgstr "About Section dobozok"
+
+#: functions.php:186
+msgid ""
+"Insert here as many Text widgets as you want for displaying boxes in About "
+"Section on your homepage."
+msgstr "Helyezze be itt annyi Szöveg widgetek, amit akar."
+
+#: functions.php:205 functions.php:219
+msgid "Post navigation"
+msgstr "Lapozás a bejegyzések között"
+
+#: functions.php:206
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span>Régebbi bejegyzések"
+
+#: functions.php:207
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Újabb bejegyzések <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:220
+msgid "&larr; Previous post"
+msgstr "&larr; Előző bejegyzés"
+
+#: functions.php:221
+msgid "Next post &rarr;"
+msgstr "Következő bejegyzés &rarr;"
+
+#: functions.php:237
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:237
+msgid "(Edit)"
+msgstr "(Szerkeszt)"
+
+#: functions.php:250
+msgid "(Post author)"
+msgstr "(A bejegyzés szerzője)"
+
+#: functions.php:256
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s. %2$s-kor"
+
+#: functions.php:262
+msgid "Your comment is awaiting moderation."
+msgstr "A hozzászólásod most moderálásra vár"
+
+#: functions.php:267
+msgid "Edit"
+msgstr "Szerkeszt"
+
+#: functions.php:271
+msgid "Reply"
+msgstr "Válasz"
+
+#: functions.php:334
+msgid "Read more"
+msgstr "Bővebben"
+
+#: functions.php:440
+#, php-format
+msgid ""
+"The %1$s plugin is required for this theme. Click on the big blue button "
+"below to install and activate %1$s."
+msgstr ""
+"%1$s plugin szükséges ehhez a témához. Klikkelj a lenti nagy kék gombra a "
+"%1$s. plugin telepítéséhez és aktiválásához."
+
+#: functions.php:441
+#, php-format
+msgid ""
+"The %1$s is installed but currently inactive. Please go to the <a href=\"%2$s"
+"\">plugin administration page</a> page to activate it."
+msgstr ""
+" %1$s plugin telepítve, de nincs aktiválva Menj a <a href=\"%2$s\">plugin "
+"adminisztrációs</a> lapra az aktiválászhoz."
+
+#: functions.php:442
+#, php-format
+msgid "Install %s Now"
+msgstr "Telepítsd %s -t most."
+
+#: functions.php:444
+msgid "Something went wrong with the plugin API."
+msgstr "Valami hiba történt a plugin API-val."
+
+#: functions.php:445
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. <a href=\"%2$s\"><strong>Click here to "
+"begin the installation process</strong></a>. You may be asked for FTP "
+"credentials based on your server setup."
+msgstr ""
+"%1$s plugin szükséges ehhez a témához. <a href=\"%2$s\"><strong>Kattints ide "
+"a telepítés megkezdéséhez</strong></a>.Lehetséges, hogy szükség lesz a "
+"szerveredhez tartozó FTP belépés adataira."
+
+#: functions.php:446
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+"Sajnálom, de nincs megfelelő jogosultságod, hogy telepítsd ezt a plugint: "
+"%s . Lépj kapcsolatba az oldal üzemeltetőjével, ő majd segít a plugin "
+"telepítésében."
+
+#: functions.php:447
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. That plugin is currently inactive, so "
+"please go to the <a href=\"%2$s\">plugin administration page</a> to activate "
+"it."
+msgstr ""
+"%1$s plugin szükséges ehhez a témához. A plugin jelenleg nincs aktiválva, "
+"ezért menj a <a href=\"%2$s\">plugin adminisztrációs</a> lapra az "
+"aktiválászhoz."
+
+#: functions.php:448
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+"Sajnálom, de nincs megfelelő jogosultságod, hogy aktiváld ezt a plugint: "
+"%s . Lépj kapcsolatba az oldal üzemeltetőjével, ő majd segít a plugin "
+"aktiválásában."
+
+#: index.php:30
+msgid "How to edit these boxes?"
+msgstr "Hogyan lehet szerkeszteni ezeket a dobozokat?"
+
+#: index.php:32
+msgid ""
+"For editing these boxes, go to the Appearance > Widgets menu and insert as "
+"many Text widgets as you like into \"About Section boxes on homepage\" "
+"widget area."
+msgstr ""
+"Módosításhoz ezen a területen, menj a Megjelenés > Widgetek menüt, és "
+"helyezze annyi Szöveg widgetek, amennyit csak akar a \"About Section dobozok"
+"\" Widgetek terület."
+
+#: index.php:33 index.php:48 index.php:63
+msgid "READ MORE"
+msgstr "BŐVEBBEN"
+
+#: index.php:45
+msgid "Useful shortcodes"
+msgstr "Hasznos shortcodes"
+
+#: index.php:47
+msgid ""
+"To insert a picture or \"Read more\" button, you can use these shortcodes:"
+"<br />[image src=\"<em>image URL</em>\"]<br />[more-button link=\"<em>URL "
+"address</em>\"]<em>READ MORE</em>[/more-button]"
+msgstr ""
+"Kép beszúrásához vagy \"Bővebben\" gomb, használja a következő shortcodes:"
+"<br />[image src=\"<em>image URL</em>\"]<br />[more-button link=\"<em>URL "
+"address</em>\"]<em>BŐVEBBEN</em>[/more-button]"
+
+#: index.php:60
+msgid "How to remove this area?"
+msgstr "Hogyan kell eltávolítani az ezen a területen?"
+
+#: index.php:62
+msgid ""
+"If you do not want to display this area, go to the \"Theme Options\" panel. "
+"In \"Homepage Settings\", you can hide this area. Same way you can rename or "
+"hide the other areas, too."
+msgstr ""
+"Ha nem szeretné megjeleníteni ezen a területen, menj a \"Téma beállítások\" "
+"panel. A \"Homepage Settings\", elrejtheti ezen a területen. Ugyanígy lehet "
+"átnevezni vagy elrejti a más területeken is."
+
+#: index.php:125
+msgid "Portfolio Item 1"
+msgstr "Portfolio Item 1"
+
+#: index.php:136
+msgid "Portfolio Item 2"
+msgstr "Portfolio Item 2"
+
+#: index.php:147
+msgid "Portfolio Item 3"
+msgstr "Portfolio Item 3"
+
+#: index.php:158
+msgid "Portfolio Item 4"
+msgstr "Portfolio Item 4"
+
+#: index.php:169
+msgid "Portfolio Item 5"
+msgstr "Portfolio Item 5"
+
+#: index.php:180
+msgid "Portfolio Item 6"
+msgstr "Portfolio Item 6"
+
+#: searchform.php:9
+msgid "Search..."
+msgstr "Keresés..."
+
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Keresés eredménye erre: %s"
+
+#: search.php:25
+msgid "Number of Results: "
+msgstr "Találatok száma:"
+
+#: search.php:38
+msgid "Search results navigation"
+msgstr "Keresési eredmények böngészése"
+
+#: search.php:39
+msgid "<span class=\"meta-nav\">&larr;</span> Previous results"
+msgstr "<span class=\"meta-nav\">&larr;</span> Előző találatok"
+
+#: search.php:40
+msgid "Next results <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Következő találatok <span class=\"meta-nav\">&rarr;</span>"
+
+#: search.php:57
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr "Bocs, nincs találat. Próbálj más kulcsszavakat megadni."
+
+#: sidebar.php:11
+msgid "Navigation"
+msgstr "Navigáció"
+
+#: single.php:30
+msgid "Pages:"
+msgstr "Oldalak:"
+
+#: tag.php:17
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Címke arhívum: %s"
+
+#: cycloneslider/dark/slider.php:43
+msgid "View Larger Image"
+msgstr "Nagyobb kép"
+
+#: cycloneslider/dark/slider.php:46 cycloneslider/dark/slider.php:48
+msgid "Learn More"
+msgstr "További információ"
+
+#: cycloneslider/default/slider.php:62 cycloneslider/default/slider.php:66
+#: cycloneslider/default/slider.php:70 cycloneslider/standard/slider.php:70
+msgid "Slide type not supported."
+msgstr "Slide típus nem támogatott."
+
+#: functions/be/fw-options.php:1204 functions/be/cz/fw-options.php:1905
+msgid "settings reset."
+msgstr "Beállítások alaphelyzetbe."
+
+#: functions/be/fw-setup.php:51
+msgid "Theme Options"
+msgstr "Téma beállítások"
+
+#: functions/fe/library.php:38
+msgid "<strong>Posted</strong>: "
+msgstr "<strong>Megjelent</strong>: "
+
+#: functions/fe/library.php:41 functions/fe/library.php:58
+#: functions/fe/library.php:61
+msgid " | "
+msgstr " | "
+
+#: functions/fe/library.php:48
+msgid "<strong>Category</strong>: "
+msgstr "<strong>Kategória</strong>: "
+
+#: functions/fe/library.php:55
+msgid "<strong>Author</strong>: "
+msgstr "<strong>Szerző</strong>: "
+
+#: functions/fe/social-widget.php:12
+msgid "A Social widget by TimeTurner"
+msgstr "Social widget a TimeTurner-től"
+
+#: functions/fe/social-widget.php:14
+msgid "TimeTurner Social Widget"
+msgstr "TimeTurner Social Widget"
+
+#: functions/fe/social-widget.php:86 functions/fe/twitter-widget.php:39
+msgid "Title:"
+msgstr "Cím:"
+
+#: functions/fe/social-widget.php:93
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: functions/fe/social-widget.php:97
+msgid "Insert the full URL of your Twitter profile."
+msgstr "Add meg a Twitter oldalad teljes URL címét."
+
+#: functions/fe/social-widget.php:103
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: functions/fe/social-widget.php:107
+msgid "Insert the full URL of your Facebook profile, page or group."
+msgstr "Add meg a Facebook oldalad teljes URL címét."
+
+#: functions/fe/social-widget.php:113
+msgid "RSS:"
+msgstr "RSS:"
+
+#: functions/fe/social-widget.php:117
+msgid "Insert the Url of your RSS. You may include your RSS from Feedburner."
+msgstr ""
+"Add meg az RSS oldalad teljes URL címét. Lehet, hogy megadhatod a Feedburner "
+"RSS-t."
+
+#: functions/fe/social-widget.php:123
+msgid "Google Plus:"
+msgstr "Google Plus:"
+
+#: functions/fe/social-widget.php:127
+msgid "Insert the full URL of your Google Plus profile"
+msgstr "Add meg a Google Plus oldalad teljes URL címét."
+
+#: functions/fe/social-widget.php:133
+msgid "You Tube:"
+msgstr "You Tube:"
+
+#: functions/fe/social-widget.php:137
+msgid "Insert the full URL of your YouTube profile."
+msgstr "Add meg a Youtube oldalad teljes URL címét."
+
+#: functions/fe/social-widget.php:143
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+#: functions/fe/social-widget.php:147
+msgid "Insert the full URL of your Linkedin profile."
+msgstr "Add meg a Linkedin oldalad teljes URL címét."
+
+#: functions/fe/social-widget.php:153
+msgid "Delicious:"
+msgstr "Delicious:"
+
+#: functions/fe/social-widget.php:157
+msgid "Insert the full URL of your Delicious profile."
+msgstr "Add meg a Delicious oldalad teljes URL címét."
+
+#: functions/fe/social-widget.php:163
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: functions/fe/social-widget.php:167
+msgid "Insert the full URL of your Pinterest profile."
+msgstr "Add meg a Pinterest oldalad teljes URL címét."
+
+#: functions/fe/social-widget.php:173
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: functions/fe/social-widget.php:177
+msgid "Insert the full URL of your Flickr profile."
+msgstr "Add meg a Flickr oldalad teljes URL címét."
+
+#: functions/fe/twitter-widget.php:13
+msgid "Twitter widget by TimeTurner"
+msgstr "Twitter widget a TimeTurner-től"
+
+#: functions/fe/twitter-widget.php:15
+msgid "TimeTurner Twitter Widget"
+msgstr "TimeTurner Twitter Widget"
+
+#: functions/fe/twitter-widget.php:25
+msgid "Join us on Twitter"
+msgstr "Csatlakozz a Twitterhez"
+
+#: functions/fe/twitter-widget.php:46
+msgid "Twitter Username:"
+msgstr "Twitter neved:"
+
+#: functions/fe/twitter-widget.php:50
+msgid "Insert your Twitter username. (ex: timeturner)."
+msgstr "Írd be a Twitter felhasználóneved"
+
+#: index.php:232 content-archives.php:21
+msgid "Published: "
+msgstr "Megjelent: "
+
+#: template-logged-in.php:30
+msgid "You must be logged in to view this page."
+msgstr "Be kell jelentkezned, hogy az oldal megtekintéséhez."
+
+#~ msgid ""
+#~ "Left widget from the footer widget area. Please insert only one widget to "
+#~ "this area."
+#~ msgstr "A láblécben BALRA lévő widget. Csak 1 widgetet rakj erre a helyre."
+
+#~ msgid ""
+#~ "Middle widget from the footer widget area. Please insert only one widget "
+#~ "to this area."
+#~ msgstr ""
+#~ "A láblécben KÖZÉPEN lévő widget. Csak 1 widgetet rakj erre a helyre."
+
+#~ msgid ""
+#~ "Right widget from the footer widget area. Please insert only one widget "
+#~ "to this area."
+#~ msgstr "A láblécben JOBBRA lévő widget. Csak 1 widgetet rakj erre a helyre."
+
+#~ msgid "Header icons"
+#~ msgstr "Fejléc ikonok"
+
+#~ msgid ""
+#~ "Insert here the TimeTurner Header Bar Widget. Then fill your home/contact/"
+#~ "sitemap URLs. The links will display as icons in header."
+#~ msgstr ""
+#~ "Ide rakd a TimeTurner Header Bar Widgetet. Ezután töltsd ki a Föoldal/"
+#~ "Kapcsolatok/Oldaltérkép mezőket. A linkek a fejlécben ikonként jelennek "
+#~ "meg."
+
+#~ msgid "Displays the home/contact/sitemap links in header."
+#~ msgstr "Főoldal/Kapcsolat/Oldaltérkép linkek megjelenítése a fejlécben."
+
+#~ msgid "TimeTurner Header Bar Widget"
+#~ msgstr "TimeTurner Fejléc Widget"
+
+#~ msgid "Home page URL:"
+#~ msgstr "Főoldal URL címe:"
+
+#~ msgid ""
+#~ "Insert the URL of your Home page (example: http://www.yourdomain.com)."
+#~ msgstr "Írd be Főoldal URL címét (például: http://www.weblapom.hu)."
+
+#~ msgid "Contact page/e-mail:"
+#~ msgstr "Kapcsolat/e-mail:"
+
+#~ msgid ""
+#~ "Insert the full URL of your Contact page or contact e-mail address If you "
+#~ "want to insert an e-mail, please add the prefix \"mailto:\" (example: "
+#~ "mailto:info@yourdomain.com)."
+#~ msgstr ""
+#~ "Írd be a Kapcsolat oldal URL címét. Ha e-mail címet is meg akarsz adni, "
+#~ "tedd hozzá a \"mailto:\" előtagot (például: mailto:info@weblapom.hu)."
+
+#~ msgid "Sitemap URL:"
+#~ msgstr "Oldaltérkép URL:"
+
+#~ msgid ""
+#~ "Insert the full URL of your Sitemap page (example: http://www.yourdomain."
+#~ "com/sitemap)."
+#~ msgstr ""
+#~ "Írd be az Oldaltérkép lap URL címét (például: http://www.weblapom.hu/"
+#~ "oldalterkep)."
+
+#~ msgid " | <strong>Tags</strong>: "
+#~ msgstr " | <strong>Cimkék</strong>: "
+
+#~ msgid "Continue reading"
+#~ msgstr "Tovább"
+
+#~ msgid "Sidebar navigation"
+#~ msgstr "Oldalsáv"
